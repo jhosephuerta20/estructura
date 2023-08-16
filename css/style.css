@@ -1,0 +1,44 @@
+header {
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}
+
+section {
+    display: flex;
+}
+
+section .red {
+    background-color: red;
+    height: 550px;
+    width: 300px;
+}
+
+section .green {
+    background-color: green;
+    width: 100%;
+    display: flex;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+section .green .yelow1 {
+    background-color: yellow;
+    width: 350px;
+    height: 400px;
+    margin-right: 40px;
+}
+
+section .green .yelow2 {
+    background-color: yellow;
+    width: 350px;
+    height: 400px;
+    margin-right: 40px;
+}
+
+section .green .yelow3 {
+    background-color: yellow;
+    width: 350px;
+    height: 400px;
+    margin-right: 40px;
+}
